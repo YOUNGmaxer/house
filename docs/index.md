@@ -1,1 +1,3 @@
 # Beauty And Simple
+
+Welcome!
