@@ -1,4 +1,5 @@
 export default {
+  base: '/house/',
   title: 'Azer House',
   description: 'Beautiful House',
   vite: {
