@@ -12,7 +12,9 @@ export default defineConfig({
   themeConfig: {
     siteTitle: 'Azer House',
     nav: [
-      { text: '看点东西', link: '/windows/' }
+      { text: '看点东西', link: '/windows/' },
+      { text: '找点工具', link: '/tools/' },
+      { text: '每周记录(WIP)', link: '/weekly/' }
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/YOUNGmaxer' },
