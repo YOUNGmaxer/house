@@ -8,7 +8,8 @@
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs --port 6889"
+    "docs:preview": "vitepress preview docs --port 6889",
+    "docs:update": "sh ./scripts/update.sh"
   },
   "keywords": [],
   "author": "",
