@@ -17,6 +17,16 @@ export default defineConfig({
       { text: '每周记录(WIP)', link: '/weekly/' },
       { text: '所见所想(WIP)', link: '/records/' }
     ],
+    sidebar: {
+      '/weekly/': [
+        {
+          text: 'Weekly',
+          items: [
+            { text: '第 0 期 - 星海漫步 梦路初开', link: '/weekly/2024-04-14' }
+          ]
+        }
+      ]
+    },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/YOUNGmaxer' },
       {
