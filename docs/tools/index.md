@@ -11,3 +11,7 @@
 * [Shots](https://shots.so/)
 
   可以给图片套一个好看的背景或者设备样式。
+
+* [Squoosh](https://squoosh.app/)
+
+  图片压缩工具

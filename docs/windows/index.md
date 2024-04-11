@@ -16,6 +16,10 @@
 
   有优质的设计图。（国外）
 
+* [SVGL](https://svgl.vercel.app/)
+
+  Logo SVG 收集网站，可以取一些知名 Logo 的 SVG 素材用于文档或者网站中。
+
 ## 教程
 
 * [MuscleWiki](https://musclewiki.com/)
