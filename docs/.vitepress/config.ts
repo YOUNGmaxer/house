@@ -14,7 +14,8 @@ export default defineConfig({
     nav: [
       { text: '看点东西', link: '/windows/' },
       { text: '找点工具', link: '/tools/' },
-      { text: '每周记录(WIP)', link: '/weekly/' }
+      { text: '每周记录(WIP)', link: '/weekly/' },
+      { text: '所见所想(WIP)', link: '/records/' }
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/YOUNGmaxer' },
