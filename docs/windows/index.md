@@ -10,6 +10,12 @@
 
   技术周刊导航站点，收录非常多技术周刊。
 
+## 博客
+
+* [Airing 的博客](https://blog.ursb.me/)
+
+  一个「哲学硕士｜小学老师 ｜终端全栈」。
+
 ## 素材
 
 * [美叶](https://www.meiye.art/)
@@ -23,6 +29,16 @@
 * [SVGL](https://svgl.vercel.app/)
 
   Logo SVG 收集网站，可以取一些知名 Logo 的 SVG 素材用于文档或者网站中。
+
+## 影视
+
+* [番薯动漫](https://www.fanshudm.com/)
+
+  看高清动漫，适合用于追番。
+
+* [动漫搜索引擎](https://www.fre123.com/anime/s)
+
+  适用于追番。
 
 ## 教程
 
