@@ -22,6 +22,10 @@
 
   聚合各种平台热榜。
 
+* [今日热榜｜宝藏导航](https://baozangdh.com/hotnews)
+
+  一个导航站点的热榜。
+
 ## 素材
 
 * [美叶](https://www.meiye.art/)
