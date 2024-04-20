@@ -40,6 +40,12 @@
 
   Logo SVG 收集网站，可以取一些知名 Logo 的 SVG 素材用于文档或者网站中。
 
+* [wallhaven](https://wallhaven.cc)
+
+  高质量的动漫图片
+
+* [极简壁纸](https://bz.zzzmh.cn/index)
+
 ## 影视
 
 * [番薯动漫](https://www.fanshudm.com/)
