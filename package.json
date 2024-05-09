@@ -15,6 +15,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "unocss": "^0.59.4",
     "vitepress": "^1.1.4"
   },
   "pnpm": {
