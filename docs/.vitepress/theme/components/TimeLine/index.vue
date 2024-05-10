@@ -25,10 +25,10 @@ const points: TimePoint[] = [
   <div>
     <div v-for="(point, idx) in points" class="mb-8px flex flex-row items-start">
       <div class="flex flex-col items-center mr-8px relative top-9px">
-        <div class="w-6px h-6px bg-blue border-rd-50%"></div>
+        <div class="w-6px h-6px bg-blue border-rd-50%" color-></div>
         <div
           v-if="idx !== points.length - 1"
-          class="w-1px h-64px border-l-1px mt-8px"
+          class="w-1px h-64px border-l-1px mt-8px border-l-bluegray"
           :class="[dashed ? 'border-l-dashed' : 'border-l-solid']"
         ></div>
       </div>
