@@ -35,5 +35,8 @@
   },
   "eslintConfig": {
     "extends": "@antfu"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.11"
   }
 }

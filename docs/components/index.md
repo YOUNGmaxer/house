@@ -2,4 +2,4 @@
 
 ## TimeLine
 
-<TimeLine />
+<TimeLine dashed />
