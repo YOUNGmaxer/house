@@ -9,9 +9,9 @@ export interface TimePoint {
   /** 主内容 */
   content: string
   /** 照片 */
-  photo?: string
+  photos?: string[]
   /** 视频 */
-  video?: string
+  videos?: string[]
 }
 
 export const formatTimestamp = (timestamp: number): string => dayjs(timestamp * 1000).format('YYYY-MM-DD HH:mm:ss')
