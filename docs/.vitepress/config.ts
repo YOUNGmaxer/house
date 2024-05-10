@@ -10,7 +10,7 @@ export default defineConfig({
       port: 6888
     },
     plugins: [
-      UnoCSS()
+      UnoCSS(),
     ]
   },
   themeConfig: {

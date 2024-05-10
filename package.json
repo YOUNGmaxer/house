@@ -15,7 +15,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@antfu/eslint-config": "^2.17.0",
+    "@types/node": "^20.12.11",
+    "eslint": "^9.2.0",
     "unocss": "^0.59.4",
+    "unplugin-auto-import": "^0.17.5",
     "vitepress": "^1.1.4"
   },
   "pnpm": {
@@ -28,5 +32,8 @@
     "overrides": {
       "rollup": "npm:@rollup/wasm-node"
     }
+  },
+  "eslintConfig": {
+    "extends": "@antfu"
   }
 }

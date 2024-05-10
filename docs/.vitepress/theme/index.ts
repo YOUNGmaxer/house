@@ -8,5 +8,5 @@ export default {
   ...DefaultTheme,
   enhanceApp({ app }: { app: App }) {
     app.component('TimeLine', TimeLine)
-  }
+  },
 }

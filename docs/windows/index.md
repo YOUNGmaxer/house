@@ -1,6 +1,6 @@
 # 看点东西
 
-## 周刊
+## 技术资讯
 
 - [潮流周刊](https://weekly.tw93.fun/)
 
@@ -13,6 +13,10 @@
 - [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/)
 
   老牌科技周刊了
+
+- [HackerNews 的每日摘要](https://www.supertechfans.com/cn/)
+
+  对 Hacker News 每天的热点文章，生成中文的 AI 摘要
 
 ## 博客
 
