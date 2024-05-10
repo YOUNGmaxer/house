@@ -10,7 +10,7 @@ defineProps<{
 const points: TimePoint[] = [
   {
     timestamp: 1715326552,
-    lastModify: 1715326552,
+    lastModify: 1715326952,
     content: 'test-1',
   },
   {
@@ -34,7 +34,10 @@ const points: TimePoint[] = [
       </div>
       <div flex flex-col>
         <div class="lh-24px">{{ point.content }}</div>
-        <div text-10px color-gray>{{ formatTimestamp(point.timestamp) }}</div>
+        <div flex text-10px color-gray>
+          <div>{{ formatTimestamp(point.timestamp) }}</div>
+          <div v-if="point.lastModify > point.timestamp" ml-8px>(最近更新 {{ formatTimestamp(point.lastModify) }})</div>
+        </div>
       </div>
     </div>
   </div>
