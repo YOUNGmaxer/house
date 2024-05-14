@@ -30,16 +30,16 @@ const points: TimePoint[] = [
   <div>
     <div v-for="(point, idx) in points" class="mb-8px flex flex-row items-start">
       <!-- 时间线 -->
-      <div class="flex flex-col items-center mr-8px relative top-9px">
-        <div class="w-6px h-6px bg-blue border-rd-50%" color-></div>
+      <div class="flex flex-col flex-self-stretch items-center mr-8px relative top-9px">
+        <div class="w-6px h-6px bg-blue border-rd-50%"></div>
         <div
           v-if="idx !== points.length - 1"
-          class="w-1px h-64px border-l-1px mt-8px border-l-bluegray"
+          class="w-1px border-l-1px mt-8px border-l-bluegray flex-1"
           :class="[dashed ? 'border-l-dashed' : 'border-l-solid']"
         ></div>
       </div>
       <!-- 内容 -->
-      <div flex flex-col>
+      <div flex flex-col flex-1>
         <div class="lh-24px">{{ point.content }}</div>
         <div v-if="point.photos" flex my-8px>
           <Photo v-for="photo in point.photos" :src="photo" width="120" not-first:ml-8px />
