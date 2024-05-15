@@ -10,6 +10,11 @@ defineProps<{
 
 const points: TimePoint[] = [
   {
+    timestamp: 1715386552,
+    lastModify: 1715326552,
+    content: 'test-2',
+  },
+  {
     timestamp: 1715326552,
     lastModify: 1715326952,
     content: 'test-1',
@@ -19,9 +24,9 @@ const points: TimePoint[] = [
     ],
   },
   {
-    timestamp: 1715386552,
-    lastModify: 1715326552,
-    content: 'test-2',
+    timestamp: 1715325552,
+    lastModify: 1715325952,
+    content: 'test-0',
   },
 ]
 </script>
