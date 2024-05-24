@@ -69,3 +69,9 @@
 - [MuscleWiki](https://musclewiki.com/)
 
   肌肉锻炼网站，可以很清楚看到你想锻炼的地方应该怎样来练习。
+
+## 音乐
+
+- [ambiphone](https://ambiph.one/)
+
+  可播放白噪音，可自己组合多种白噪音
