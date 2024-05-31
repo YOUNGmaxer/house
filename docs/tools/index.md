@@ -27,3 +27,7 @@
 - [MiaoYan](https://miaoyan.app/)
 
   Markdown 笔记本
+
+- [雷池](https://github.com/chaitin/SafeLine)
+
+  一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
