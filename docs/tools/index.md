@@ -39,3 +39,7 @@
 - [独立开发者出海工具箱](https://indiehackertools.net/)
 
   需求挖掘、设计、 开发、营销、商业分析一网打尽
+
+- [喵闪字库](https://www.miao3.cn/)
+
+  免费字体下载
