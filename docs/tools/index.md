@@ -35,3 +35,7 @@
 - [Carbon](https://carbon.now.sh/)
 
   代码截图工具
+
+- [独立开发者出海工具箱](https://indiehackertools.net/)
+
+  需求挖掘、设计、 开发、营销、商业分析一网打尽
