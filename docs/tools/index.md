@@ -43,3 +43,7 @@
 - [喵闪字库](https://www.miao3.cn/)
 
   免费字体下载
+
+- [ShareDrop](https://www.sharedrop.io/)
+
+  局域网内分享文件
