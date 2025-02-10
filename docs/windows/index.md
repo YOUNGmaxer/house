@@ -62,10 +62,6 @@
 
   看高清动漫，适合用于追番。
 
-- [动漫搜索引擎](https://www.fre123.com/anime/s)
-
-  适用于追番。
-
 ## 教程
 
 - [MuscleWiki](https://musclewiki.com/)
